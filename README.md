@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'am Adarsh</h1>
 
-## <div align="center">I'am a 16 yro Cybersecurity student</div>
+## <div align="center">I'am a 17 yro Cybersecurity student</div>
 
 ## About me:
 -  I'm very passionate about cybersecurity, hoping to get into PenTesting or Malware Analysis
