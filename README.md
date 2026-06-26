@@ -7,7 +7,7 @@
 
 -  I’m currently working on getting certified for CompTIA Networking+ and Security+ (will try to work my way into more...)
 
--  I’m learning Python, C++, and a bit of HTML.
+-  I’m trying to learn C and Go from time to time...
 
 -  I enjoy reading other people's projects too (especially if they're reconnaissance-related)
 
