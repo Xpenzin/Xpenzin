@@ -5,7 +5,7 @@
 ## About me:
 -  I'm very passionate about cybersecurity, hoping to get into Penetration Testing or Malware Analysis
 
--  Currently working on getting certified in Security+ (I will try to work my way into more...)
+-  Currently working on getting certified in Security+ (I will try to work my way into more)
 
 -  Learning C from time to time...
 
